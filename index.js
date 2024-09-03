@@ -1,4 +1,4 @@
-const marks = [100, 1000, 2080, 1070]
+const marks = [100, 1000, 2080, 1070,3]
 let largest = marks[0]
 for (const num of marks)
 {
